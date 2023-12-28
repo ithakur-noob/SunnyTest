@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SunnyTask</string>
+    <string name="login">Login</string>
+    <string name="hi_login_with_your_phone_number">Hi, Login with your phone number</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+</resources>
